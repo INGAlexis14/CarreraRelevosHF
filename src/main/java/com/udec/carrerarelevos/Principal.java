@@ -15,7 +15,9 @@ public class Principal {
         return numero;
     }
     
-    
+    /*
+    *Objetos equipos
+    */
     private int cont;
     Equipo equi1 =  new Equipo("Equipo1");
     Equipo equi2 =  new Equipo("Equipo2");
