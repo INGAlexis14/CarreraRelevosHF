@@ -12,7 +12,7 @@ public class Equipo {
     private String nombreEquipo;
     private int posicion1;
     private int posicion2;
-    private int posicion3;
+    private int posicion3;  
 
     public Equipo() {
     }

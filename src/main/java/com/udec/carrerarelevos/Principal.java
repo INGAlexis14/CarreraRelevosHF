@@ -19,7 +19,7 @@ public class Principal {
     private int cont;
     Equipo equi1 =  new Equipo("Equipo1");
     Equipo equi2 =  new Equipo("Equipo2");
-    Equipo equi3 =  new Equipo("Equipo3");
+    Equipo equi3 =  new Equipo("Equipo3"); 
     
     Corredor corredor11 = new Corredor("Corredor11", 0, 30, equi1);
     Corredor corredor12 = new Corredor("Corredor12", 30, 60, equi1);

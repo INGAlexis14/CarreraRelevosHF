@@ -11,7 +11,7 @@ public class Corredor extends Thread {
     private int posiciondeInicio;
     private int posiciondeLlegada;
     private String equipo1;
-    private String equipo2;
+    private String equipo2; 
     private String equipo3;
 
     public Corredor(String nombreEquipo, int posiciondeInicio, int posiciondeLlegada, Equipo equipo) {
